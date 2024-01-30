@@ -13,9 +13,12 @@ git clone <repository_url>
 **Create the necessary folders**
 
 mkdir db
-mkdir models
-**Add your model files to the 'models' folder**
 mkdir docs
+
+**Add your model files to the 'models' folder**
+clone LaMini-T5-738M from its git repository
+https://huggingface.co/MBZUAI/LaMini-T5-738M
+
 
 ----
 ### Usage 
